@@ -1,0 +1,208 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.navbar-default {
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgb(3 0 71 / 9%);
+}
+#text-h1 {
+    font-size: 44px;
+    color: #18113c
+}
+.lead {
+    font-size: 1.25rem;
+    font-weight: 400;
+    letter-spacing: -0.03rem;
+    color: #5c5776;
+}
+
+.py-14 {
+    padding-bottom: 6.5rem!important;
+    padding-top: 6.5rem!important;
+}
+
+.px-md-14 {
+    padding-left: 6.5rem!important;
+    padding-right: 6.5rem!important;
+}
+
+.border-dark-warning {
+    border-color: #c28135!important;
+    border-width: 6px!important;
+}
+
+.rounded-3 {
+    border-radius: 0.5rem;
+}
+.btn-outline-dark-warning {
+    border-color: #c28135;
+    color: #c28135;
+    padding: 0.75rem 1.25rem;
+}
+.btn-outline-dark-warning:focus {
+    box-shadow: 0 0 0 0.25rem rgb(194 129 53 / 50%);
+}
+
+.btn-outline-dark-warning:hover {
+    background-color: #c28135;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #18113c;
+
+}
+
+.text-primary {
+    color: #754ffe!important;
+}
+
+.mb-8 {
+    margin-bottom: 3.5rem;
+}
+.btn-primary {
+    background-color: #754ffe;
+    border-color: #754ffe;
+    color: #fff;
+    padding: 0.75rem 1.25rem;
+}
+
+.btn-primary:hover {
+    background-color: #5e3fcb;
+    border-color: #583bbf;
+    color: #fff;
+}
+
+.border-dark-primary {
+    border-color: #593cc1!important;
+    border-width: 6px!important;
+}
+
+.btn-check:focus+.btn-primary, .btn-primary:focus {
+    box-shadow: 0 0 0 0.25rem rgb(138 105 254 / 50%);
+    background-color: #6343d8;
+    border-color: #5e3fcb;
+    color: #fff;
+}
+
+.btn-outline-dark-info {
+    border-color: #51a0c2;
+    color: #51a0c2;
+    padding:0.75rem 1.25rem;
+}
+.btn-outline-dark-info:hover {
+    background-color: #51a0c2;
+    border-color: #51a0c2;
+    color: #fff;
+}
+
+.btn-outline-dark-info:focus {
+    box-shadow: 0 0 0 0.25rem rgb(81 160 194 / 50%);
+}
+
+.navbar {
+    padding: 0.625rem 1rem;
+}
+
+.navbar-default .navbar-nav .nav-item .nav-link:hover {
+    color: #754ffe;
+}
+
+.navbar-default .navbar-nav .nav-item .nav-link {
+    color: #18113c;
+    font-size: .93rem;
+    font-weight: 500;
+    padding: 0.3125rem 0.5rem;
+}
+
+.navbar .dropdown .dropdown-toggle:after {
+    background-repeat: no-repeat;
+    background-size: 0.725rem 0.725rem;
+    border: none;
+    color: #79758f;
+    content: "\203A";
+    float: right;
+    margin-left: 0.375rem;
+    transform: rotate(90deg);
+ }
+
+ .form-control:focus {
+    background-color: #fff;
+    border-color: #754ffe;
+    box-shadow: 0 0 0 3px rgb(231 225 253 / 75%);
+    color: #18113c;
+    outline: 0;
+}
+
+.ps-3 {
+    padding-left: 1rem!important;
+    font-size: .875rem;
+}
+
+.ps-6 {
+    padding:0.75rem 2.5rem!important;
+    font-size: .875rem;
+}
+.fe-search:before {
+    content: "\e9c1";
+}
+.shadow-sm {
+    box-shadow: 0 1px 3px rgba(3,0,71,.09)!important;
+}
+.btn-white {
+    padding: 0.75rem 1.25rem;
+}
+
+.pt-lg-8 {
+    padding-top: 3.5rem!important;
+}
+.pb-14 {
+    padding-bottom: 6.5rem!important;
+}
+
+.mb-8 {
+    margin-bottom: 3.5rem!important;
+}
+
+.pe-8 {
+    padding-right: 3.5rem!important;
+}
+
+.pt-8 {
+    padding-top: 3.5rem!important;
+}
+.table>tbody {
+    vertical-align: inherit;
+}
+
+.fw-bold {
+    font-weight: 700!important;
+}
+.mb-1 {
+    margin-bottom: 0.25rem!important;
+}
+.h3, h3 {
+    font-size: 1.25rem;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    color: #18113c;
+    font-family: Inter,"sans-serif";
+    font-weight: 500;
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+    margin-top: 0;
+}
+
+.h1, h1 {
+    font-size: 2rem;
+}
+
+.table>:not(:first-child) {
+    border-top: 0;
+}
+
